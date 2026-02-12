@@ -9,7 +9,7 @@ This project focuses on lighting, shadows, textures, and atmosphere to create an
 
 ## 🚀 Live Demo
 
-👉 [Live Preview](#)  
+👉 [Live Preview](https://haunted-house-in-threejs.netlify.app/)  
 👉 [Course Reference - Three.js Journey](https://threejs-journey.com/)
 
 ---
@@ -50,8 +50,8 @@ This project focuses on lighting, shadows, textures, and atmosphere to create an
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/threejs-haunted-house.git
-
+git clone https://github.com/aliahmed-codes/haunted-house-threejs.git
+```
 
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
